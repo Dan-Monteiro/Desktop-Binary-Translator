@@ -1,2 +1,2 @@
 # Desktop-Binary-Translator
-This is a Java Desktop Application for Translating Binaries
+This is a Simple Java Desktop Application for Translating Binaries
